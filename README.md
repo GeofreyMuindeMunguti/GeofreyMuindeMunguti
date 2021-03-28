@@ -1,6 +1,6 @@
 ### Welcome
 
-Here are some ideas to get you started:
+Here is a brief about me :smiley:
 
 - 🔭 I’m currently working on Python(Django) 
 - 🌱 I’m currently learning React and Golang
