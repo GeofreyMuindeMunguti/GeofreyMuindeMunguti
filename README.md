@@ -1,6 +1,6 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here is a brief about me :smiley:
+Current affairs :smiley:
 
 - 🔭 I’m currently doing some cool stuff in Python, Go, Javascript and Kotlin
 - 👯 I’m looking to collaborate on Open source solutions
