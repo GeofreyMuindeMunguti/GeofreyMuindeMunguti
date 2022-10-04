@@ -2,20 +2,15 @@
 
 Here is a brief about me :smiley:
 
-- 🔭 I’m currently working on Python(Django & FastAPI) 
-- 🌱 I’m currently learning React and Golang
+- 🔭 I’m currently doing some cool stuff in Python, Go, Javascript and Kotlin
 - 👯 I’m looking to collaborate on Open source solutions
-- ⚡ Fun fact: Beach coding, coffee is a must have.
 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
